@@ -1,4 +1,4 @@
-#Rcode Dissertation/Olukosi Bashiru Oladimeji(2260092)
+#Rcode Ola
 
 install.packages('caret')
 install.packages('partykit')
